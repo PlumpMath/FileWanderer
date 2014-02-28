@@ -1,0 +1,16 @@
+#SUBLIME
+*.sublime-project
+*.sublime-workspace
+
+#PYTHON
+__pycache__
+*.pyc
+
+#WANDERER
+wanderer.txt
+ashes.txt
+flag.txt
+footprints*.txt
+
+#OTHER
+archive
